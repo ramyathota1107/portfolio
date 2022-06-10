@@ -1,0 +1,46 @@
+.container{
+    background-color:pink;
+}
+header{
+    background-color:aqua;
+    font-size: 50px;
+    line-height: 110px;
+    text-align: center;
+}
+
+nav ul li{
+    display:inline-block;
+    background-color:solid gray;
+    text-align: center;
+    width: 150px;
+    margin: 0 10px 0 10px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 25px;
+}
+.box{
+    display: flex;
+    width: 1565px;
+}
+#sec1{
+    height: 500px;
+    text-align: justify;
+    width: 550px;
+}
+#sec2{
+    height: 500px;
+    text-align: justify;
+    width:820px;  
+}
+#sec3{
+    height: 500px;
+    text-align: justify;
+    width: 905px;   
+}
+#sec4{
+    height: 700px;
+    text-align: center;
+    width: 805px;
+}
+
+
